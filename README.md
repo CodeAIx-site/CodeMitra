@@ -31,5 +31,6 @@ All predefined questions and answers are stored in JavaScript objects, making it
 ## Contributing
 
 Contributor: [Kashish Sinha](https://github.com/kashish281)
+
 She was a part of our team during the Capstone project named CodeAIx, which this repository is a part of. Her contributions were instrumental in shaping the chatbot's design and functionality.
 
